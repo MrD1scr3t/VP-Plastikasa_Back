@@ -1,0 +1,16 @@
+//CONFIGURACION DE LA BASE DE DATOS A LA QUE HACE CONEXION
+
+//host:192.100.178.50  Plastikasa Tech Center
+//host:192.100.103.50  Plastikasa San Pablo
+//host:192.100.101.20  Plastikasa Radio
+//host:192.100.167.40  Plastikasa Aztlan
+//host:192.100.103.40  Plastikasa Huinala
+
+host:192.100.178.50
+user:CONSULTAS
+password:CONSULTAS
+database:sicar
+port:3306
+
+//CONFIGURACION DEL EQUIPO DONDE ESTE INSTALADO EL API
+portapi:3000
